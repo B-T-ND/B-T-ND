@@ -29,7 +29,7 @@ I'm a Full Stack Junior Developer from Hungary.
 
 ### Linked in profile:
 
-  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="Linked-in" alt="Linked-in" width="40" height="40"/></a>
+  <a href="https://www.linkedin.com/in/botond-bata/" target="_blank" rel="noreferrer noopener"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="Linked-in" alt="Linked-in" width="40" height="40"/></a>
           
 
 ### Codewars profile:
