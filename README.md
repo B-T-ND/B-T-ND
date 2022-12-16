@@ -23,19 +23,20 @@ I'm a Full Stack Junior Developer from Hungary.
 
 ---
 
-### :fire: My Stats :
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=B-T-ND&hide=stars&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linked in profile:
 
   <a href="https://www.linkedin.com/in/botond-bata/" target="_blank" rel="noreferrer noopener"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="Linked-in" alt="Linked-in" width="40" height="40"/></a>
-          
+
 
 ### Codewars profile:
 
 [![Profile badge](https://www.codewars.com/users/B-T-ND/badges/large)](https://www.codewars.com/users/B-T-ND)
 
+
+### :fire: My Stats :
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=B-T-ND&hide=stars&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
