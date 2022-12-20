@@ -29,9 +29,8 @@ You can learn about what I've been doing so far
 
 ### Project(s):
 
-[![Project](https://github-readme-stats.vercel.app/api/pin/?username=CodecoolGlobal&repo=el-proyecte-grande-sprint-1-java-zsofi82&theme=dark#gh-dark-mode-only)](https://github.com/CodeCoolGlobal/el-proyecte-grande-sprint-1-java-zsofi82#gh-dark-mode-only)
-
-[![Project](https://github-readme-stats.vercel.app/api/pin/?username=CodecoolGlobal&repo=el-proyecte-grande-sprint-1-java-zsofi82#gh-light-mode-only)](https://github.com/CodeCoolGlobal/el-proyecte-grande-sprint-1-java-zsofi82#gh-light-mode-only)
+[![ProjectDark](https://github-readme-stats.vercel.app/api/pin/?username=CodecoolGlobal&repo=el-proyecte-grande-sprint-1-java-zsofi82&theme=dark#gh-dark-mode-only)](https://github.com/CodeCoolGlobal/el-proyecte-grande-sprint-1-java-zsofi82#gh-dark-mode-only)
+[![ProjectLight](https://github-readme-stats.vercel.app/api/pin/?username=CodecoolGlobal&repo=el-proyecte-grande-sprint-1-java-zsofi82#gh-light-mode-only)](https://github.com/CodeCoolGlobal/el-proyecte-grande-sprint-1-java-zsofi82#gh-light-mode-only)
 
 
 
