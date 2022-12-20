@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hello there! 
 
-I'm a Full Stack Junior Developer from Hungary. 
+You can learn about what I've been doing so far
 
 ---
 
-### :hammer_and_wrench: Languages and Tools:
+### Languages and Tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -20,13 +20,19 @@ I'm a Full Stack Junior Developer from Hungary.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-
 ---
 
-
-### Linked in profile:
+### My other profiles:
 
   <a href="https://www.linkedin.com/in/botond-bata/" target="_blank" rel="noreferrer noopener"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="Linked-in" alt="Linked-in" width="40" height="40"/></a>
+
+
+### Project(s):
+
+[![Project](https://github-readme-stats.vercel.app/api/pin/?username=CodecoolGlobal&repo=el-proyecte-grande-sprint-1-java-zsofi82&theme=dark#gh-dark-mode-only)](https://github.com/CodeCoolGlobal/el-proyecte-grande-sprint-1-java-zsofi82#gh-dark-mode-only)
+
+[![Project](https://github-readme-stats.vercel.app/api/pin/?username=CodecoolGlobal&repo=el-proyecte-grande-sprint-1-java-zsofi82#gh-light-mode-only)](https://github.com/CodeCoolGlobal/el-proyecte-grande-sprint-1-java-zsofi82#gh-light-mode-only)
+
 
 
 ### Codewars profile:
@@ -34,9 +40,11 @@ I'm a Full Stack Junior Developer from Hungary.
 [![Profile badge](https://www.codewars.com/users/B-T-ND/badges/large)](https://www.codewars.com/users/B-T-ND)
 
 
-### :fire: My Stats :
+### My Stats:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=B-T-ND&hide=stars&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![B-T-ND's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=B-T-ND&hide=stars&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/B-T-ND/github-readme-stats#gh-dark-mode-only)
+[![B-T-ND's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=B-T-ND&hide=stars&count_private=true&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/B-T-ND/github-readme-stats#gh-light-mode-only)
+
 
 
 
