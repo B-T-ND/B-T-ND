@@ -1,6 +1,6 @@
 ### Hello there! 
 
-You can learn about what I've been doing so far
+You can learn here about what I've been doing so far.
 
 ---
 
