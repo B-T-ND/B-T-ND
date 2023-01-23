@@ -29,8 +29,8 @@ You can learn here about what I've been doing so far.
 
 ### Project(s):
 
-[![ProjectDark](https://github-readme-stats.vercel.app/api/pin/?username=CodecoolGlobal&repo=el-proyecte-grande-sprint-1-java-zsofi82&theme=dark#gh-dark-mode-only)](https://github.com/CodeCoolGlobal/el-proyecte-grande-sprint-1-java-zsofi82#gh-dark-mode-only)
-[![ProjectLight](https://github-readme-stats.vercel.app/api/pin/?username=CodecoolGlobal&repo=el-proyecte-grande-sprint-1-java-zsofi82#gh-light-mode-only)](https://github.com/CodeCoolGlobal/el-proyecte-grande-sprint-1-java-zsofi82#gh-light-mode-only)
+[![ProjectDark](https://readme-stats.kyrie25.me/api/pin/?username=CodecoolGlobal&repo=el-proyecte-grande-sprint-1-java-zsofi82&theme=dark#gh-dark-mode-only)](https://github.com/CodeCoolGlobal/el-proyecte-grande-sprint-1-java-zsofi82#gh-dark-mode-only)
+[![ProjectLight](https://readme-stats.kyrie25.me/api/pin/?username=CodecoolGlobal&repo=el-proyecte-grande-sprint-1-java-zsofi82#gh-light-mode-only)](https://github.com/CodeCoolGlobal/el-proyecte-grande-sprint-1-java-zsofi82#gh-light-mode-only)
 
 
 
@@ -41,8 +41,8 @@ You can learn here about what I've been doing so far.
 
 ### My Stats:
 
-[![B-T-ND's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=B-T-ND&hide=stars&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/B-T-ND/github-readme-stats#gh-dark-mode-only)
-[![B-T-ND's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=B-T-ND&hide=stars&count_private=true&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/B-T-ND/github-readme-stats#gh-light-mode-only)
+[![B-T-ND's GitHub stats-Dark](https://readme-stats.kyrie25.me/api?username=B-T-ND&hide=stars&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/B-T-ND/github-readme-stats#gh-dark-mode-only)
+[![B-T-ND's GitHub stats-Light](https://readme-stats.kyrie25.me/api?username=B-T-ND&hide=stars&count_private=true&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/B-T-ND/github-readme-stats#gh-light-mode-only)
 
 
 
